@@ -1,0 +1,370 @@
+2024-08-29 22:47:17,853 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-29 22:51:36,346 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-08-29 22:51:38,598 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: JioMart:JioMart:0.0.1-SNAPSHOT @ E:\Ganesh Git\Code Practice\Technical-Assesment-Tesseract\JioMart\pom.xml.
+2024-08-29 22:51:39,216 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.17/poi-3.17.pom
+2024-08-29 22:51:39,257 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.17/poi-3.17.pom
+2024-08-29 22:51:39,316 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.pom
+2024-08-29 22:51:39,393 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.pom
+2024-08-29 22:51:39,442 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/38/commons-parent-38.pom
+2024-08-29 22:51:39,577 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/38/commons-parent-38.pom
+2024-08-29 22:51:39,650 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.pom
+2024-08-29 22:51:39,701 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.pom
+2024-08-29 22:51:39,761 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.pom
+2024-08-29 22:51:39,820 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.pom
+2024-08-29 22:51:39,898 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.pom
+2024-08-29 22:51:39,944 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.pom
+2024-08-29 22:51:39,997 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.pom
+2024-08-29 22:51:40,058 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.pom
+2024-08-29 22:51:40,106 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.pom
+2024-08-29 22:51:40,148 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.pom
+2024-08-29 22:51:40,190 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.pom
+2024-08-29 22:51:40,235 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.pom
+2024-08-29 22:51:40,386 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.pom
+2024-08-29 22:51:40,436 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.pom
+2024-08-29 22:51:40,486 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/21/commons-parent-21.pom
+2024-08-29 22:51:40,592 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/21/commons-parent-21.pom
+2024-08-29 22:51:40,671 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-io/1.3.2/commons-io-1.3.2.pom
+2024-08-29 22:51:40,726 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-io/1.3.2/commons-io-1.3.2.pom
+2024-08-29 22:51:40,784 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom
+2024-08-29 22:51:40,842 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom
+2024-08-29 22:51:40,912 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/3/commons-parent-3.pom
+2024-08-29 22:51:40,982 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/3/commons-parent-3.pom
+2024-08-29 22:51:41,041 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+2024-08-29 22:51:41,085 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+2024-08-29 22:51:41,138 [Worker-16: Update Maven projects configuration] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2: https://issues.sonatype.org/browse/MVNCENTRAL-244
+2024-08-29 22:51:41,215 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.5/testng-7.5.jar
+2024-08-29 22:51:41,301 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar
+2024-08-29 22:51:41,301 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.17/poi-3.17.jar
+2024-08-29 22:51:41,301 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+2024-08-29 22:51:41,301 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar
+2024-08-29 22:51:41,605 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar
+2024-08-29 22:51:41,753 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.jar
+2024-08-29 22:51:42,858 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.5/testng-7.5.jar
+2024-08-29 22:51:42,916 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+2024-08-29 22:51:42,951 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar
+2024-08-29 22:51:42,999 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2024-08-29 22:51:43,149 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar
+2024-08-29 22:51:43,192 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar
+2024-08-29 22:51:43,238 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar
+2024-08-29 22:51:43,288 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar
+2024-08-29 22:51:43,346 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2024-08-29 22:51:43,376 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar
+2024-08-29 22:51:43,539 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar
+2024-08-29 22:51:43,644 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar
+2024-08-29 22:51:43,672 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar
+2024-08-29 22:51:43,723 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.17/poi-3.17.jar
+2024-08-29 22:51:43,749 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar
+2024-08-29 22:51:43,855 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar
+2024-08-29 22:51:43,967 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.jar
+2024-08-29 22:51:45,632 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2024-08-29 22:51:45,720 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2024-08-29 22:51:45,727 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2024-08-29 22:51:45,877 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.5/testng-7.5-sources.jar
+2024-08-29 22:51:46,778 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.5/testng-7.5-sources.jar
+2024-08-29 22:51:46,785 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.5
+2024-08-29 22:51:46,956 [Worker-16: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JioMart/src/main/java
+2024-08-29 22:51:47,007 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar
+2024-08-29 22:51:47,020 [Worker-16: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JioMart/src/test/java
+2024-08-29 22:51:47,109 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar
+2024-08-29 22:51:47,118 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.findbugs:jsr305:3.0.1
+2024-08-29 22:51:47,180 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.17/poi-3.17-sources.jar
+2024-08-29 22:51:47,411 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.17/poi-3.17-sources.jar
+2024-08-29 22:51:47,417 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi:3.17
+2024-08-29 22:51:47,556 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar
+2024-08-29 22:51:47,589 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-08-29 22:51:47,590 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ganesh Git\Code Practice\Technical-Assesment-Tesseract\JioMart\src\main\resources
+2024-08-29 22:51:47,596 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-08-29 22:51:47,597 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ganesh Git\Code Practice\Technical-Assesment-Tesseract\JioMart\src\test\resources
+2024-08-29 22:51:47,800 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar
+2024-08-29 22:51:47,807 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.1
+2024-08-29 22:51:47,947 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar
+2024-08-29 22:51:48,135 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar
+2024-08-29 22:51:48,141 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi-ooxml:3.17
+2024-08-29 22:51:48,768 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17-sources.jar
+2024-08-29 22:51:48,796 [Worker-4: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.poi:poi-ooxml-schemas:3.17
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:sources:3.17
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:608) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:219) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:577) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:562) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:270) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2024-08-29 22:51:48,907 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04-sources.jar
+2024-08-29 22:51:48,957 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04-sources.jar
+2024-08-29 22:51:48,962 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.virtuald:curvesapi:1.04
+2024-08-29 22:51:49,115 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar
+2024-08-29 22:51:49,289 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar
+2024-08-29 22:51:49,295 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for log4j:log4j:1.2.16
+2024-08-29 22:51:49,334 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar
+2024-08-29 22:51:49,350 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar
+2024-08-29 22:51:49,355 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.5
+2024-08-29 22:51:49,389 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0-sources.jar
+2024-08-29 22:51:49,434 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0-sources.jar
+2024-08-29 22:51:49,439 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.0
+2024-08-29 22:51:49,471 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar
+2024-08-29 22:51:49,499 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar
+2024-08-29 22:51:49,503 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:1.3.2
+2024-08-29 22:51:49,637 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5-sources.jar
+2024-08-29 22:51:49,679 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5-sources.jar
+2024-08-29 22:51:49,684 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-log4j12:1.7.5
+2024-08-29 22:51:52,424 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17-javadoc.jar
+2024-08-29 22:51:52,427 [Worker-19: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.poi:poi-ooxml-schemas:3.17
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:javadoc:3.17
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:608) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:219) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:577) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:562) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:270) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2024-08-29 22:51:52,955 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2024-08-29 22:51:53,133 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-08-29 22:51:53,135 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ganesh Git\Code Practice\Technical-Assesment-Tesseract\JioMart\src\main\resources
+2024-08-29 22:51:53,142 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-08-29 22:51:53,145 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ganesh Git\Code Practice\Technical-Assesment-Tesseract\JioMart\src\test\resources
+2024-08-29 22:53:33,345 [main] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Technical-Assesment-Tesseract_JioMart.testng.xml references non-existing project Technical-Assesment-Tesseract.
+org.eclipse.core.runtime.CoreException: Launch configuration Technical-Assesment-Tesseract_JioMart.testng.xml references non-existing project Technical-Assesment-Tesseract.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.testng.eclipse.ui.util.ConfigurationHelper.createBasicConfiguration(ConfigurationHelper.java:331) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.createLaunchConfiguration(LaunchUtil.java:652) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:127) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:119) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:107) ~[na:na]
+	at org.testng.eclipse.launch.TestNGSuiteLaunchShortcut.run(TestNGSuiteLaunchShortcut.java:38) ~[na:na]
+	at org.testng.eclipse.launch.TestNGSuiteLaunchShortcut.launch(TestNGSuiteLaunchShortcut.java:33) ~[na:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:419) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:83) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) ~[na:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:778) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1206) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.6.200.v20220720-2012.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+2024-08-29 22:53:33,353 [main] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Technical-Assesment-Tesseract_JioMart.testng.xml references non-existing project Technical-Assesment-Tesseract.
+org.eclipse.core.runtime.CoreException: Launch configuration Technical-Assesment-Tesseract_JioMart.testng.xml references non-existing project Technical-Assesment-Tesseract.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:424) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:138) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:119) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:107) ~[na:na]
+	at org.testng.eclipse.launch.TestNGSuiteLaunchShortcut.run(TestNGSuiteLaunchShortcut.java:38) ~[na:na]
+	at org.testng.eclipse.launch.TestNGSuiteLaunchShortcut.launch(TestNGSuiteLaunchShortcut.java:33) ~[na:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:419) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:83) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) ~[na:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:778) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1206) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.6.200.v20220720-2012.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+2024-08-29 22:53:33,361 [main] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Technical-Assesment-Tesseract_JioMart.testng.xml references non-existing project Technical-Assesment-Tesseract.
+org.eclipse.core.runtime.CoreException: Launch configuration Technical-Assesment-Tesseract_JioMart.testng.xml references non-existing project Technical-Assesment-Tesseract.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:406) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:140) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:119) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:107) ~[na:na]
+	at org.testng.eclipse.launch.TestNGSuiteLaunchShortcut.run(TestNGSuiteLaunchShortcut.java:38) ~[na:na]
+	at org.testng.eclipse.launch.TestNGSuiteLaunchShortcut.launch(TestNGSuiteLaunchShortcut.java:33) ~[na:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:419) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:83) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) ~[na:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:778) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1206) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.6.200.v20220720-2012.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+2024-08-29 22:53:33,376 [main] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Technical-Assesment-Tesseract_JioMart.testng.xml references non-existing project Technical-Assesment-Tesseract.
+org.eclipse.core.runtime.CoreException: Launch configuration Technical-Assesment-Tesseract_JioMart.testng.xml references non-existing project Technical-Assesment-Tesseract.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationAdded(MavenLaunchConfigurationListener.java:45) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:219) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationAdded(LaunchManager.java:2120) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:375) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.save(LaunchUtil.java:679) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.runConfig(LaunchUtil.java:659) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:158) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:119) ~[na:na]
+	at org.testng.eclipse.util.LaunchUtil.launchSuiteConfiguration(LaunchUtil.java:107) ~[na:na]
+	at org.testng.eclipse.launch.TestNGSuiteLaunchShortcut.run(TestNGSuiteLaunchShortcut.java:38) ~[na:na]
+	at org.testng.eclipse.launch.TestNGSuiteLaunchShortcut.launch(TestNGSuiteLaunchShortcut.java:33) ~[na:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:419) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:83) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) ~[na:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:778) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1206) ~[org.eclipse.jface_3.27.0.v20220817-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645) ~[org.eclipse.swt.win32.win32.x86_64_3.121.0.v20220829-1402.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.6.200.v20220720-2012.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.18.100.v20220817-1601.jar:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467) ~[org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar:na]
+2024-08-29 22:53:46,766 [Worker-4: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2: https://issues.sonatype.org/browse/MVNCENTRAL-244
+2024-08-29 22:53:47,675 [Worker-4: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2: https://issues.sonatype.org/browse/MVNCENTRAL-244
