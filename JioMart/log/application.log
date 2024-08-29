@@ -1,0 +1,1380 @@
+2022-09-08 20:52:54 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:12:50 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:12:53 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:12:54 INFO  TC01.java:15 - Application Start
+2022-09-08 21:12:55 INFO  TC01.java:17 - Click on Sign In
+2022-09-08 21:12:56 INFO  BaseClass.java:63 - Close Browser
+2022-09-08 21:13:49 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:13:51 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:13:53 INFO  TC01.java:15 - Application Start
+2022-09-08 21:13:54 INFO  TC01.java:17 - Click on Sign In
+2022-09-08 21:21:26 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:21:29 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:21:30 INFO  TC01.java:15 - Application Start
+2022-09-08 21:21:31 INFO  TC01.java:17 - Click on Sign In
+2022-09-08 21:24:10 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:24:13 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:24:15 INFO  TC01.java:15 - Application Start
+2022-09-08 21:24:16 INFO  TC01.java:17 - Click on Sign In
+2022-09-08 21:51:51 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:51:53 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:51:56 INFO  TC01.java:15 - Application Start
+2022-09-08 21:51:57 INFO  TC01.java:17 - Click on Sign In
+2022-09-08 21:52:51 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:52:55 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:52:57 INFO  TC01.java:15 - Application Start
+2022-09-08 21:52:58 INFO  TC01.java:17 - Click on Sign In
+2022-09-08 21:55:01 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:55:04 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:55:06 INFO  TC01.java:15 - Application Start
+2022-09-08 21:55:07 INFO  TC01.java:17 - Click on Sign In
+2022-09-08 21:55:13 INFO  TC01.java:19 - Enter the phone No
+2022-09-08 21:55:13 INFO  TC01.java:21 - Click on button
+2022-09-08 21:55:13 INFO  TC01.java:24 - Enter OTP
+2022-09-08 21:55:13 INFO  TC01.java:26 - Click on Verify button
+2022-09-08 21:56:41 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:56:44 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:56:46 INFO  TC01.java:15 - Application Start
+2022-09-08 21:56:47 INFO  TC01.java:17 - Click on Sign In
+2022-09-08 21:58:52 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:58:55 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-08 21:58:56 INFO  TC01.java:16 - Application Start
+2022-09-08 21:58:57 INFO  TC01.java:18 - Click on Sign In
+2022-09-08 21:59:06 INFO  TC01.java:20 - Enter the phone No
+2022-09-08 21:59:06 INFO  TC01.java:22 - Click on button
+2022-09-08 21:59:06 INFO  TC01.java:25 - Enter OTP
+2022-09-08 21:59:06 INFO  TC01.java:27 - Click on Verify button
+2022-09-10 13:28:25 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-10 13:28:31 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-10 13:28:35 INFO  TC01.java:16 - Application Start
+2022-09-10 13:28:37 INFO  TC01.java:18 - Click on Sign In
+2022-09-10 13:30:17 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-10 13:30:23 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-10 13:30:29 INFO  TC01.java:16 - Application Start
+2022-09-10 13:30:29 INFO  TC01.java:18 - Click on Sign In
+2022-09-10 13:57:02 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-10 13:57:36 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-10 14:11:10 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-10 14:13:21 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-10 14:14:22 INFO  TC01.java:16 - Application Start
+2022-09-17 23:57:47 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-17 23:57:49 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-17 23:57:51 INFO  TC01.java:16 - Application Start
+2022-09-17 23:57:52 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:06:18 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:06:21 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:06:23 INFO  TC01.java:16 - Application Start
+2022-09-18 00:06:24 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:07:40 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:07:44 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:07:46 INFO  TC01.java:16 - Application Start
+2022-09-18 00:07:47 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:09:32 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:09:34 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:09:36 INFO  TC01.java:16 - Application Start
+2022-09-18 00:09:37 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:09:37 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:09:37 INFO  TC01.java:22 - Click on button
+2022-09-18 00:09:37 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:11:48 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:11:52 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:11:54 INFO  TC01.java:16 - Application Start
+2022-09-18 00:11:55 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:11:55 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:11:55 INFO  TC01.java:22 - Click on button
+2022-09-18 00:11:55 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:19:19 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:19:21 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:19:24 INFO  TC01.java:16 - Application Start
+2022-09-18 00:19:25 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:19:25 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:19:25 INFO  TC01.java:22 - Click on button
+2022-09-18 00:19:25 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:22:02 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:22:05 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:22:07 INFO  TC01.java:16 - Application Start
+2022-09-18 00:22:08 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:28:25 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:28:28 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:28:30 INFO  TC01.java:16 - Application Start
+2022-09-18 00:28:31 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:28:41 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:28:41 INFO  TC01.java:22 - Click on button
+2022-09-18 00:28:41 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:30:25 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:30:28 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:30:30 INFO  TC01.java:16 - Application Start
+2022-09-18 00:30:31 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:30:31 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:30:31 INFO  TC01.java:22 - Click on button
+2022-09-18 00:30:41 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:32:20 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:32:22 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:32:24 INFO  TC01.java:16 - Application Start
+2022-09-18 00:32:25 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:32:25 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:32:25 INFO  TC01.java:22 - Click on button
+2022-09-18 00:32:25 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:33:11 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:33:13 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:33:16 INFO  TC01.java:16 - Application Start
+2022-09-18 00:33:16 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:33:17 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:33:17 INFO  TC01.java:22 - Click on button
+2022-09-18 00:33:27 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:33:27 INFO  TC01.java:27 - Click on Verify button
+2022-09-18 00:33:55 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:33:59 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:34:01 INFO  TC01.java:16 - Application Start
+2022-09-18 00:34:02 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:34:02 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:34:02 INFO  TC01.java:22 - Click on button
+2022-09-18 00:34:12 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:34:12 INFO  TC01.java:27 - Click on Verify button
+2022-09-18 00:40:21 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:40:24 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:40:26 INFO  TC01.java:16 - Application Start
+2022-09-18 00:40:27 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:40:27 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:40:27 INFO  TC01.java:22 - Click on button
+2022-09-18 00:42:21 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:42:24 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:42:26 INFO  TC01.java:16 - Application Start
+2022-09-18 00:42:26 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:42:27 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:42:27 INFO  TC01.java:22 - Click on button
+2022-09-18 00:44:36 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:44:39 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:44:41 INFO  TC01.java:16 - Application Start
+2022-09-18 00:44:42 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:44:42 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:44:42 INFO  TC01.java:22 - Click on button
+2022-09-18 00:45:26 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:45:29 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:45:32 INFO  TC01.java:16 - Application Start
+2022-09-18 00:45:33 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:45:33 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:45:33 INFO  TC01.java:22 - Click on button
+2022-09-18 00:46:59 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:47:02 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:47:04 INFO  TC01.java:16 - Application Start
+2022-09-18 00:47:06 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:47:06 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:47:06 INFO  TC01.java:22 - Click on button
+2022-09-18 00:48:15 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:48:18 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:48:20 INFO  TC01.java:16 - Application Start
+2022-09-18 00:48:21 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:48:21 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:48:21 INFO  TC01.java:22 - Click on button
+2022-09-18 00:50:58 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:51:02 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:51:05 INFO  TC01.java:16 - Application Start
+2022-09-18 00:51:06 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:51:06 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:51:06 INFO  TC01.java:22 - Click on button
+2022-09-18 00:56:13 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:56:15 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:56:17 INFO  TC01.java:16 - Application Start
+2022-09-18 00:56:18 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:56:18 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:56:18 INFO  TC01.java:22 - Click on button
+2022-09-18 00:56:33 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:56:33 INFO  TC01.java:27 - Click on Verify button
+2022-09-18 00:58:25 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:58:27 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 00:58:29 INFO  TC01.java:16 - Application Start
+2022-09-18 00:58:30 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 00:58:30 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 00:58:30 INFO  TC01.java:22 - Click on button
+2022-09-18 00:58:45 INFO  TC01.java:25 - Enter OTP
+2022-09-18 00:58:45 INFO  TC01.java:27 - Click on Verify button
+2022-09-18 16:46:45 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 16:46:47 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 16:46:49 INFO  TC01.java:16 - Application Start
+2022-09-18 16:46:50 INFO  TC01.java:18 - Click on Sign In
+2022-09-18 16:46:50 INFO  TC01.java:20 - Enter the phone No
+2022-09-18 16:46:50 INFO  TC01.java:22 - Click on button
+2022-09-18 16:47:05 INFO  TC01.java:25 - Enter OTP
+2022-09-18 16:47:05 INFO  TC01.java:27 - Click on Verify button
+2022-09-18 17:05:16 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:05:19 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:05:22 INFO  TC01.java:17 - Application Start
+2022-09-18 17:06:08 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:06:10 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:06:12 INFO  TC01.java:17 - Application Start
+2022-09-18 17:29:13 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:29:16 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:29:23 INFO  TC01.java:17 - Application Start
+2022-09-18 17:33:02 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:33:05 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:33:13 INFO  TC01.java:17 - Application Start
+2022-09-18 17:38:19 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:38:22 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:38:30 INFO  TC01.java:17 - Application Start
+2022-09-18 17:39:29 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:39:32 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:39:40 INFO  TC01.java:17 - Application Start
+2022-09-18 17:43:32 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:43:34 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:43:36 INFO  TC01.java:38 - SearchProducts
+2022-09-18 17:43:36 INFO  TC01.java:40 - SearchProductName
+2022-09-18 17:43:40 INFO  TC01.java:42 - SelectProduct
+2022-09-18 17:43:41 INFO  TC01.java:44 - AddToCart
+2022-09-18 17:43:41 INFO  TC01.java:17 - Application Start
+2022-09-18 17:45:51 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:45:53 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:45:55 INFO  TC01.java:38 - SearchProducts
+2022-09-18 17:45:55 INFO  TC01.java:40 - SearchProductName
+2022-09-18 17:45:57 INFO  TC01.java:42 - SelectProduct
+2022-09-18 17:45:58 INFO  TC01.java:44 - AddToCart
+2022-09-18 17:46:28 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:46:30 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:46:32 INFO  TC01.java:38 - SearchProducts
+2022-09-18 17:46:33 INFO  TC01.java:40 - SearchProductName
+2022-09-18 17:46:37 INFO  TC01.java:42 - SelectProduct
+2022-09-18 17:46:38 INFO  TC01.java:44 - AddToCart
+2022-09-18 17:48:05 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:48:07 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:48:09 INFO  TC01.java:38 - SearchProducts
+2022-09-18 17:48:10 INFO  TC01.java:40 - SearchProductName
+2022-09-18 17:48:12 INFO  TC01.java:42 - SelectProduct
+2022-09-18 17:48:13 INFO  TC01.java:44 - AddToCart
+2022-09-18 17:48:28 INFO  TC01.java:50 - ClickOnCartelement not interactable
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49640}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 60035282c7a45adb9adcaf24228b9c31
+2022-09-18 17:51:02 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:51:05 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 17:51:09 INFO  TC01.java:38 - SearchProducts
+2022-09-18 17:51:09 INFO  TC01.java:40 - SearchProductName
+2022-09-18 17:51:14 INFO  TC01.java:42 - SelectProduct
+2022-09-18 17:51:14 INFO  TC01.java:44 - AddToCart
+2022-09-18 17:51:20 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 17:51:21 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 18:09:05 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:09:08 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:09:10 INFO  TC01.java:38 - SearchProducts
+2022-09-18 18:09:11 INFO  TC01.java:40 - SearchProductName
+2022-09-18 18:09:16 INFO  TC01.java:42 - SelectProduct
+2022-09-18 18:09:17 INFO  TC01.java:44 - AddToCart
+2022-09-18 18:09:17 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 18:11:08 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:11:10 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:11:13 INFO  TC01.java:38 - SearchProducts
+2022-09-18 18:11:13 INFO  TC01.java:40 - SearchProductName
+2022-09-18 18:11:18 INFO  TC01.java:42 - SelectProduct
+2022-09-18 18:11:18 INFO  TC01.java:44 - AddToCart
+2022-09-18 18:11:23 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 18:13:21 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:13:23 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:13:25 INFO  TC01.java:38 - SearchProducts
+2022-09-18 18:13:26 INFO  TC01.java:40 - SearchProductName
+2022-09-18 18:13:30 INFO  TC01.java:42 - SelectProduct
+2022-09-18 18:13:30 INFO  TC01.java:44 - AddToCart
+2022-09-18 18:13:36 INFO  SearchProducts.java:66 - ClickOnCart inside class
+2022-09-18 18:13:36 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 18:21:09 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:21:12 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:21:14 INFO  TC01.java:38 - SearchProducts
+2022-09-18 18:21:14 INFO  TC01.java:40 - SearchProductName
+2022-09-18 18:21:19 INFO  TC01.java:42 - SelectProduct
+2022-09-18 18:21:20 INFO  TC01.java:44 - AddToCart
+2022-09-18 18:21:25 INFO  SearchProducts.java:67 - ClickOnCart inside class
+2022-09-18 18:21:25 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 18:22:13 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:22:15 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 18:22:17 INFO  TC01.java:38 - SearchProducts
+2022-09-18 18:22:18 INFO  TC01.java:40 - SearchProductName
+2022-09-18 18:22:21 INFO  TC01.java:42 - SelectProduct
+2022-09-18 18:22:21 INFO  TC01.java:44 - AddToCart
+2022-09-18 18:22:27 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 18:22:28 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 19:27:19 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 19:27:25 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 19:27:27 INFO  TC01.java:18 - Application Start
+2022-09-18 19:27:27 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 19:27:27 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 19:27:28 INFO  TC01.java:24 - Click on button
+2022-09-18 19:27:43 INFO  TC01.java:26 - Enter OTP
+2022-09-18 19:27:43 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 19:27:43 INFO  TC01.java:39 - SearchProducts
+2022-09-18 19:28:34 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 19:28:37 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 19:28:38 INFO  TC01.java:18 - Application Start
+2022-09-18 19:28:39 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 19:28:39 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 19:28:39 INFO  TC01.java:24 - Click on button
+2022-09-18 19:28:54 INFO  TC01.java:26 - Enter OTP
+2022-09-18 19:28:54 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 19:28:54 INFO  TC01.java:39 - SearchProducts
+2022-09-18 19:28:57 INFO  TC01.java:41 - SearchProductName
+2022-09-18 19:29:00 INFO  TC01.java:43 - SelectProduct
+2022-09-18 19:30:20 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 19:30:24 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 19:30:25 INFO  TC01.java:18 - Application Start
+2022-09-18 19:30:26 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 19:30:26 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 19:30:26 INFO  TC01.java:24 - Click on button
+2022-09-18 19:30:41 INFO  TC01.java:26 - Enter OTP
+2022-09-18 19:30:42 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 19:30:42 INFO  TC01.java:39 - SearchProducts
+2022-09-18 19:30:44 INFO  TC01.java:41 - SearchProductName
+2022-09-18 19:30:47 INFO  TC01.java:43 - SelectProduct
+2022-09-18 19:30:47 INFO  TC01.java:45 - AddToCart
+2022-09-18 19:30:53 INFO  TC01.java:49 - ClickOnCart
+2022-09-18 19:30:54 INFO  TC01.java:55 - PlaceOrder
+2022-09-18 19:34:36 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 19:34:38 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:02:28 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:02:29 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:02:31 INFO  TC01.java:18 - Application Start
+2022-09-18 20:02:41 INFO  TC01.java:38 - SearchProducts
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:83 - TypeYourAddressCannot invoke "org.openqa.selenium.WebElement.click()" because "this.typeYourAddres" is null
+2022-09-18 20:02:51 INFO  TC01.java:62 - TypeYourAddress
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:93 - EnterPinCodeCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.EnterPinCode" is null
+2022-09-18 20:02:51 INFO  TC01.java:64 - EnterPinCode
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:103 - EnterHouseNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.EnterHouseNo" is null
+2022-09-18 20:02:51 INFO  TC01.java:66 - EnterHouseNo
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:114 - FloorNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.FloorNo" is null
+2022-09-18 20:02:51 INFO  TC01.java:68 - FloorNo
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:124 - TowerNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.TowerNo" is null
+2022-09-18 20:02:51 INFO  TC01.java:70 - TowerNo
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:134 - BuildingNameCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.BuildingName" is null
+2022-09-18 20:02:51 INFO  TC01.java:72 - BuildingName
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:144 - AddressCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.Address" is null
+2022-09-18 20:02:51 INFO  TC01.java:74 - Address
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:155 - LandMarkCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.LandMark" is null
+2022-09-18 20:02:51 INFO  TC01.java:76 - LandMark
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:169 - PersonNameCannot invoke "org.openqa.selenium.WebElement.clear()" because "this.PersonName" is null
+2022-09-18 20:02:51 INFO  TC01.java:79 - PersonName
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:179 - ContactNoCannot invoke "org.openqa.selenium.WebElement.clear()" because "this.ContactNo" is null
+2022-09-18 20:02:51 INFO  TC01.java:81 - ContactNo
+2022-09-18 20:02:51 INFO  DeliveryProcess.java:189 - AddressSaveAsCannot invoke "org.openqa.selenium.WebElement.click()" because "this.AddressSaveAs" is null
+2022-09-18 20:02:51 INFO  TC01.java:83 - AddressSaveAs
+2022-09-18 20:03:23 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:03:24 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:03:26 INFO  TC01.java:18 - Application Start
+2022-09-18 20:03:36 INFO  TC01.java:38 - SearchProducts
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:78 - TypeYourAddressCannot invoke "org.openqa.selenium.WebElement.click()" because "this.typeYourAddres" is null
+2022-09-18 20:03:46 INFO  TC01.java:62 - TypeYourAddress
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:88 - EnterPinCodeCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.EnterPinCode" is null
+2022-09-18 20:03:46 INFO  TC01.java:64 - EnterPinCode
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:97 - EnterHouseNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.EnterHouseNo" is null
+2022-09-18 20:03:46 INFO  TC01.java:66 - EnterHouseNo
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:107 - FloorNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.FloorNo" is null
+2022-09-18 20:03:46 INFO  TC01.java:68 - FloorNo
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:116 - TowerNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.TowerNo" is null
+2022-09-18 20:03:46 INFO  TC01.java:70 - TowerNo
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:125 - BuildingNameCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.BuildingName" is null
+2022-09-18 20:03:46 INFO  TC01.java:72 - BuildingName
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:134 - AddressCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.Address" is null
+2022-09-18 20:03:46 INFO  TC01.java:74 - Address
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:144 - LandMarkCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.LandMark" is null
+2022-09-18 20:03:46 INFO  TC01.java:76 - LandMark
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:158 - PersonNameCannot invoke "org.openqa.selenium.WebElement.clear()" because "this.PersonName" is null
+2022-09-18 20:03:46 INFO  TC01.java:79 - PersonName
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:168 - ContactNoCannot invoke "org.openqa.selenium.WebElement.clear()" because "this.ContactNo" is null
+2022-09-18 20:03:46 INFO  TC01.java:81 - ContactNo
+2022-09-18 20:03:46 INFO  DeliveryProcess.java:177 - AddressSaveAsCannot invoke "org.openqa.selenium.WebElement.click()" because "this.AddressSaveAs" is null
+2022-09-18 20:03:46 INFO  TC01.java:83 - AddressSaveAs
+2022-09-18 20:08:29 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:08:31 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:08:32 INFO  TC01.java:18 - Application Start
+2022-09-18 20:08:43 INFO  SignInPage.java:33 - Exception : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='logged']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56807}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 969ad5cb09939b74bfcdf77616edc5c7
+*** Element info: {Using=xpath, value=//div[@class='logged']}
+2022-09-18 20:08:43 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 20:08:43 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 20:08:43 INFO  TC01.java:24 - Click on button
+2022-09-18 20:09:09 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:09:12 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:09:14 INFO  TC01.java:18 - Application Start
+2022-09-18 20:09:16 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 20:09:16 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 20:09:16 INFO  TC01.java:24 - Click on button
+2022-09-18 20:09:31 INFO  TC01.java:26 - Enter OTP
+2022-09-18 20:09:31 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 20:09:31 INFO  TC01.java:38 - SearchProducts
+2022-09-18 20:09:34 INFO  TC01.java:40 - SearchProductName
+2022-09-18 20:11:39 INFO  TC01.java:42 - SelectProduct
+2022-09-18 20:11:39 INFO  TC01.java:44 - AddToCart
+2022-09-18 20:11:45 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 20:11:46 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:78 - TypeYourAddressCannot invoke "org.openqa.selenium.WebElement.click()" because "this.typeYourAddres" is null
+2022-09-18 20:11:46 INFO  TC01.java:62 - TypeYourAddress
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:88 - EnterPinCodeCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.EnterPinCode" is null
+2022-09-18 20:11:46 INFO  TC01.java:64 - EnterPinCode
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:97 - EnterHouseNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.EnterHouseNo" is null
+2022-09-18 20:11:46 INFO  TC01.java:66 - EnterHouseNo
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:107 - FloorNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.FloorNo" is null
+2022-09-18 20:11:46 INFO  TC01.java:68 - FloorNo
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:116 - TowerNoCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.TowerNo" is null
+2022-09-18 20:11:46 INFO  TC01.java:70 - TowerNo
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:125 - BuildingNameCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.BuildingName" is null
+2022-09-18 20:11:46 INFO  TC01.java:72 - BuildingName
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:134 - AddressCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.Address" is null
+2022-09-18 20:11:46 INFO  TC01.java:74 - Address
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:144 - LandMarkCannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.LandMark" is null
+2022-09-18 20:11:46 INFO  TC01.java:76 - LandMark
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:158 - PersonNameCannot invoke "org.openqa.selenium.WebElement.clear()" because "this.PersonName" is null
+2022-09-18 20:11:46 INFO  TC01.java:79 - PersonName
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:168 - ContactNoCannot invoke "org.openqa.selenium.WebElement.clear()" because "this.ContactNo" is null
+2022-09-18 20:11:46 INFO  TC01.java:81 - ContactNo
+2022-09-18 20:11:46 INFO  DeliveryProcess.java:177 - AddressSaveAsCannot invoke "org.openqa.selenium.WebElement.click()" because "this.AddressSaveAs" is null
+2022-09-18 20:11:46 INFO  TC01.java:83 - AddressSaveAs
+2022-09-18 20:18:34 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:18:37 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:18:40 INFO  TC01.java:18 - Application Start
+2022-09-18 20:18:41 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 20:18:41 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 20:18:41 INFO  TC01.java:24 - Click on button
+2022-09-18 20:18:56 INFO  TC01.java:26 - Enter OTP
+2022-09-18 20:18:57 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 20:18:57 INFO  TC01.java:38 - SearchProducts
+2022-09-18 20:19:11 INFO  TC01.java:40 - SearchProductName
+2022-09-18 20:19:14 INFO  TC01.java:42 - SelectProduct
+2022-09-18 20:20:10 INFO  DeliveryProcess.java:77 - TypeYourAddressCannot locate an element using xpath=//*[@id='addressmodal']/div/div/div[2]/div[1]/div[5]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: driver.version: RemoteWebDriver
+2022-09-18 20:20:10 INFO  TC01.java:62 - TypeYourAddress
+2022-09-18 20:20:20 INFO  DeliveryProcess.java:87 - EnterPinCodechrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20e5546a078e4684d9d8583eaa5159f8
+*** Element info: {Using=xpath, value=//input[@placeholder='Pin Code *']}
+2022-09-18 20:20:20 INFO  TC01.java:64 - EnterPinCode
+2022-09-18 20:20:35 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:20:38 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:20:40 INFO  TC01.java:18 - Application Start
+2022-09-18 20:20:41 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 20:20:41 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 20:20:41 INFO  TC01.java:24 - Click on button
+2022-09-18 20:20:56 INFO  TC01.java:26 - Enter OTP
+2022-09-18 20:20:56 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 20:20:56 INFO  TC01.java:38 - SearchProducts
+2022-09-18 20:21:00 INFO  TC01.java:40 - SearchProductName
+2022-09-18 20:21:04 INFO  TC01.java:42 - SelectProduct
+2022-09-18 20:21:04 INFO  TC01.java:44 - AddToCart
+2022-09-18 20:21:10 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 20:21:10 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 20:21:11 INFO  TC01.java:62 - TypeYourAddress
+2022-09-18 20:21:12 INFO  TC01.java:64 - EnterPinCode
+2022-09-18 20:21:42 INFO  DeliveryProcess.java:96 - EnterHouseNono such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='form-control ng-pristine ng-valid ng-touched']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57549}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d063f0f0418cda83822e4eceb23b89fc
+*** Element info: {Using=xpath, value=//input[@class='form-control ng-pristine ng-valid ng-touched']}
+2022-09-18 20:21:42 INFO  TC01.java:66 - EnterHouseNo
+2022-09-18 20:21:42 INFO  TC01.java:68 - FloorNo
+2022-09-18 20:21:42 INFO  TC01.java:70 - TowerNo
+2022-09-18 20:21:42 INFO  TC01.java:72 - BuildingName
+2022-09-18 20:21:42 INFO  TC01.java:74 - Address
+2022-09-18 20:21:42 INFO  TC01.java:76 - LandMark
+2022-09-18 20:21:42 INFO  TC01.java:79 - PersonName
+2022-09-18 20:21:42 INFO  TC01.java:81 - ContactNo
+2022-09-18 20:21:42 INFO  TC01.java:83 - AddressSaveAs
+2022-09-18 20:35:54 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:35:57 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:35:59 INFO  TC01.java:18 - Application Start
+2022-09-18 20:36:00 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 20:36:00 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 20:36:00 INFO  TC01.java:24 - Click on button
+2022-09-18 20:36:15 INFO  TC01.java:26 - Enter OTP
+2022-09-18 20:36:15 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 20:36:15 INFO  TC01.java:38 - SearchProducts
+2022-09-18 20:36:19 INFO  TC01.java:40 - SearchProductName
+2022-09-18 20:36:21 INFO  TC01.java:42 - SelectProduct
+2022-09-18 20:36:21 INFO  TC01.java:44 - AddToCart
+2022-09-18 20:36:27 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 20:36:27 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 20:36:28 INFO  TC01.java:62 - TypeYourAddress
+2022-09-18 20:36:28 INFO  TC01.java:64 - EnterPinCode
+2022-09-18 20:36:58 INFO  DeliveryProcess.java:100 - EnterHouseNono such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='form-control ng-pristine ng-valid ng-touched']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57992}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c67e1a71dc506300ba6f1e638cc3d490
+*** Element info: {Using=xpath, value=//input[@class='form-control ng-pristine ng-valid ng-touched']}
+2022-09-18 20:36:58 INFO  TC01.java:66 - EnterHouseNo
+2022-09-18 20:36:58 INFO  TC01.java:68 - FloorNo
+2022-09-18 20:36:58 INFO  TC01.java:70 - TowerNo
+2022-09-18 20:36:58 INFO  TC01.java:72 - BuildingName
+2022-09-18 20:36:58 INFO  TC01.java:74 - Address
+2022-09-18 20:36:59 INFO  TC01.java:76 - LandMark
+2022-09-18 20:36:59 INFO  TC01.java:79 - PersonName
+2022-09-18 20:36:59 INFO  TC01.java:81 - ContactNo
+2022-09-18 20:36:59 INFO  TC01.java:83 - AddressSaveAs
+2022-09-18 20:37:00 INFO  DeliveryProcess.java:198 - MakePaymentelement click intercepted: Element <button _ngcontent-cno-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-cno-c107="" placeholder="Name *" mdbinput="" type="text" id="addressee_name" name="addressee_name" formcontrolname="addressee_name" minlength="2" maxlength="80" pattern="^[a-zA-Z \s]+$" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57992}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c67e1a71dc506300ba6f1e638cc3d490
+2022-09-18 20:44:02 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:44:08 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:44:12 INFO  TC01.java:18 - Application Start
+2022-09-18 20:44:13 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 20:44:13 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 20:44:13 INFO  TC01.java:24 - Click on button
+2022-09-18 20:44:30 INFO  TC01.java:26 - Enter OTP
+2022-09-18 20:44:30 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 20:44:30 INFO  TC01.java:38 - SearchProducts
+2022-09-18 20:44:32 INFO  TC01.java:40 - SearchProductName
+2022-09-18 20:44:36 INFO  TC01.java:42 - SelectProduct
+2022-09-18 20:44:37 INFO  TC01.java:44 - AddToCart
+2022-09-18 20:44:42 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 20:44:43 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 20:44:44 INFO  TC01.java:62 - TypeYourAddress
+2022-09-18 20:44:44 INFO  TC01.java:64 - EnterPinCode
+2022-09-18 20:45:14 INFO  DeliveryProcess.java:100 - EnterHouseNono such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='form-control ng-pristine ng-valid ng-touched']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58419}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b1cb14caac7294769d839e8321be3890
+*** Element info: {Using=xpath, value=//input[@class='form-control ng-pristine ng-valid ng-touched']}
+2022-09-18 20:45:14 INFO  TC01.java:66 - EnterHouseNo
+2022-09-18 20:45:14 INFO  TC01.java:68 - FloorNo
+2022-09-18 20:45:15 INFO  TC01.java:70 - TowerNo
+2022-09-18 20:45:15 INFO  TC01.java:72 - BuildingName
+2022-09-18 20:45:15 INFO  TC01.java:74 - Address
+2022-09-18 20:45:15 INFO  TC01.java:76 - LandMark
+2022-09-18 20:45:15 INFO  TC01.java:79 - PersonName
+2022-09-18 20:45:15 INFO  TC01.java:81 - ContactNo
+2022-09-18 20:45:15 INFO  TC01.java:83 - AddressSaveAs
+2022-09-18 20:45:15 INFO  TC01.java:85 - SaveAddress
+2022-09-18 20:45:16 INFO  TC01.java:87 - MakePayment
+2022-09-18 20:51:58 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:52:00 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 20:52:02 INFO  TC01.java:18 - Application Start
+2022-09-18 20:52:03 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 20:52:03 INFO  TC01.java:22 - Enter the phone No
+2022-09-18 20:52:03 INFO  TC01.java:24 - Click on button
+2022-09-18 20:52:20 INFO  TC01.java:26 - Enter OTP
+2022-09-18 20:52:20 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 20:52:20 INFO  TC01.java:38 - SearchProducts
+2022-09-18 20:52:22 INFO  TC01.java:40 - SearchProductName
+2022-09-18 20:52:28 INFO  TC01.java:42 - SelectProduct
+2022-09-18 20:52:28 INFO  TC01.java:44 - AddToCart
+2022-09-18 20:52:33 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 20:52:34 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 20:52:35 INFO  TC01.java:62 - TypeYourAddress
+2022-09-18 20:52:35 INFO  TC01.java:64 - EnterPinCode
+2022-09-18 20:52:35 INFO  TC01.java:66 - EnterHouseNo
+2022-09-18 20:52:35 INFO  TC01.java:68 - FloorNo
+2022-09-18 20:52:35 INFO  TC01.java:70 - TowerNo
+2022-09-18 20:52:35 INFO  TC01.java:72 - BuildingName
+2022-09-18 20:52:36 INFO  TC01.java:74 - Address
+2022-09-18 20:52:36 INFO  TC01.java:76 - LandMark
+2022-09-18 20:52:36 INFO  TC01.java:79 - PersonName
+2022-09-18 20:52:36 INFO  TC01.java:81 - ContactNo
+2022-09-18 20:52:36 INFO  TC01.java:83 - AddressSaveAs
+2022-09-18 20:52:36 INFO  TC01.java:85 - SaveAddress
+2022-09-18 20:52:37 INFO  TC01.java:87 - MakePayment
+2022-09-18 23:44:42 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 23:44:48 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 23:44:50 INFO  TC01.java:38 - SearchProducts
+2022-09-18 23:44:51 INFO  TC01.java:40 - SearchProductName
+2022-09-18 23:44:54 INFO  TC01.java:42 - SelectProduct
+2022-09-18 23:44:55 INFO  TC01.java:44 - AddToCart
+2022-09-18 23:45:01 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 23:45:02 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 23:47:45 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 23:47:47 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 23:47:50 INFO  TC01.java:38 - SearchProducts
+2022-09-18 23:47:50 INFO  TC01.java:40 - SearchProductName
+2022-09-18 23:47:55 INFO  TC01.java:42 - SelectProduct
+2022-09-18 23:47:56 INFO  TC01.java:44 - AddToCart
+2022-09-18 23:48:01 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 23:48:02 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 23:49:14 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 23:49:16 INFO  TC01.java:38 - SearchProducts
+2022-09-18 23:49:16 INFO  TC01.java:40 - SearchProductName
+2022-09-18 23:49:21 INFO  TC01.java:42 - SelectProduct
+2022-09-18 23:49:21 INFO  TC01.java:44 - AddToCart
+2022-09-18 23:49:27 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 23:49:27 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 23:52:18 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 23:52:20 INFO  BaseClass.java:97 - rownum :1
+2022-09-18 23:52:20 INFO  BaseClass.java:99 - colcount :1
+2022-09-18 23:52:20 INFO  TC01.java:18 - Application Start
+2022-09-18 23:52:21 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 23:52:21 INFO  TC01.java:22 - Enter the phone No : 8169629145
+2022-09-18 23:52:21 INFO  TC01.java:24 - Click on button
+2022-09-18 23:52:38 INFO  TC01.java:26 - Enter OTP
+2022-09-18 23:52:38 INFO  TC01.java:38 - SearchProducts
+2022-09-18 23:53:01 INFO  TC01.java:40 - SearchProductName
+2022-09-18 23:53:06 INFO  TC01.java:42 - SelectProduct
+2022-09-18 23:53:06 INFO  TC01.java:44 - AddToCart
+2022-09-18 23:53:11 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 23:53:12 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 23:56:07 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 23:56:10 INFO  BaseClass.java:98 - rownum :1
+2022-09-18 23:56:10 INFO  BaseClass.java:100 - colcount :1
+2022-09-18 23:56:10 INFO  TC01.java:18 - Application Start
+2022-09-18 23:56:11 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 23:56:11 INFO  TC01.java:22 - Enter the phone No : 8169629145
+2022-09-18 23:56:11 INFO  TC01.java:24 - Click on button
+2022-09-18 23:56:28 INFO  TC01.java:26 - Enter OTP
+2022-09-18 23:56:29 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 23:56:29 INFO  TC01.java:38 - SearchProducts
+2022-09-18 23:56:31 INFO  TC01.java:40 - SearchProductName
+2022-09-18 23:56:35 INFO  TC01.java:42 - SelectProduct
+2022-09-18 23:57:05 INFO  BaseClass.java:75 - rownum :8
+2022-09-18 23:57:05 INFO  BaseClass.java:77 - colcount :10
+2022-09-18 23:57:36 INFO  DeliveryProcess.java:92 - TypeYourAddressno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='addressmodal']/div/div/div[2]/div[1]/div[5]"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58339}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d1bfeab0d8895d5125e693d14461f5e
+*** Element info: {Using=xpath, value=//*[@id='addressmodal']/div/div/div[2]/div[1]/div[5]}
+2022-09-18 23:57:36 INFO  TC01.java:63 - TypeYourAddress
+2022-09-18 23:58:09 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-18 23:58:11 INFO  BaseClass.java:98 - rownum :1
+2022-09-18 23:58:11 INFO  BaseClass.java:100 - colcount :1
+2022-09-18 23:58:11 INFO  TC01.java:18 - Application Start
+2022-09-18 23:58:12 INFO  TC01.java:20 - Click on Sign In
+2022-09-18 23:58:12 INFO  TC01.java:22 - Enter the phone No : 8169629145
+2022-09-18 23:58:12 INFO  TC01.java:24 - Click on button
+2022-09-18 23:58:29 INFO  TC01.java:26 - Enter OTP
+2022-09-18 23:58:29 INFO  TC01.java:28 - Click on Verify button
+2022-09-18 23:58:29 INFO  TC01.java:38 - SearchProducts
+2022-09-18 23:58:31 INFO  TC01.java:40 - SearchProductName
+2022-09-18 23:58:35 INFO  TC01.java:42 - SelectProduct
+2022-09-18 23:58:35 INFO  TC01.java:44 - AddToCart
+2022-09-18 23:58:41 INFO  TC01.java:48 - ClickOnCart
+2022-09-18 23:58:41 INFO  TC01.java:54 - PlaceOrder
+2022-09-18 23:58:41 INFO  BaseClass.java:75 - rownum :8
+2022-09-18 23:58:41 INFO  BaseClass.java:77 - colcount :10
+2022-09-18 23:58:43 INFO  TC01.java:63 - TypeYourAddress
+2022-09-18 23:58:43 INFO  TC01.java:65 - EnterPinCode : 400705
+2022-09-18 23:58:43 INFO  TC01.java:67 - EnterHouseNo : 1
+2022-09-18 23:58:43 INFO  TC01.java:69 - FloorNo : 1st
+2022-09-18 23:58:43 INFO  TC01.java:71 - TowerNo : 1
+2022-09-18 23:58:43 INFO  TC01.java:73 - BuildingName : test
+2022-09-18 23:58:43 INFO  TC01.java:75 - Address : test
+2022-09-18 23:58:43 INFO  TC01.java:77 - LandMark : test
+2022-09-18 23:58:43 INFO  TC01.java:80 - PersonName : test
+2022-09-18 23:58:43 INFO  TC01.java:82 - ContactNo : 1234567890
+2022-09-18 23:58:43 INFO  TC01.java:84 - AddressSaveAs : Home
+2022-09-18 23:58:43 INFO  TC01.java:86 - SaveAddress
+2022-09-18 23:58:44 INFO  TC01.java:88 - MakePayment
+2022-09-18 23:59:14 INFO  DeliveryProcess.java:92 - TypeYourAddressno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='addressmodal']/div/div/div[2]/div[1]/div[5]"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8eabc15ce1f5eeac19caa2a93291b8b8
+*** Element info: {Using=xpath, value=//*[@id='addressmodal']/div/div/div[2]/div[1]/div[5]}
+2022-09-18 23:59:14 INFO  TC01.java:63 - TypeYourAddress
+2022-09-18 23:59:44 INFO  DeliveryProcess.java:102 - EnterPinCodeno such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Pin Code *']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8eabc15ce1f5eeac19caa2a93291b8b8
+*** Element info: {Using=xpath, value=//input[@placeholder='Pin Code *']}
+2022-09-18 23:59:44 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:00:14 INFO  DeliveryProcess.java:111 - EnterHouseNono such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='flat_or_house_no']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8eabc15ce1f5eeac19caa2a93291b8b8
+*** Element info: {Using=xpath, value=//input[@id='flat_or_house_no']}
+2022-09-19 00:00:14 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:02:22 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-19 00:02:24 INFO  BaseClass.java:98 - rownum :1
+2022-09-19 00:02:24 INFO  BaseClass.java:100 - colcount :1
+2022-09-19 00:02:24 INFO  TC01.java:18 - Application Start
+2022-09-19 00:02:25 INFO  TC01.java:20 - Click on Sign In
+2022-09-19 00:02:25 INFO  TC01.java:22 - Enter the phone No : 8169629145
+2022-09-19 00:02:25 INFO  TC01.java:24 - Click on button
+2022-09-19 00:02:42 INFO  TC01.java:26 - Enter OTP
+2022-09-19 00:02:42 INFO  TC01.java:28 - Click on Verify button
+2022-09-19 00:02:42 INFO  TC01.java:38 - SearchProducts
+2022-09-19 00:02:44 INFO  TC01.java:40 - SearchProductName
+2022-09-19 00:02:49 INFO  TC01.java:42 - SelectProduct
+2022-09-19 00:02:49 INFO  TC01.java:44 - AddToCart
+2022-09-19 00:02:55 INFO  TC01.java:48 - ClickOnCart
+2022-09-19 00:02:55 INFO  TC01.java:54 - PlaceOrder
+2022-09-19 00:02:55 INFO  BaseClass.java:75 - rownum :8
+2022-09-19 00:02:55 INFO  BaseClass.java:77 - colcount :10
+2022-09-19 00:02:57 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:02:57 INFO  TC01.java:65 - EnterPinCode : 400705
+2022-09-19 00:02:57 INFO  TC01.java:67 - EnterHouseNo : 1
+2022-09-19 00:02:57 INFO  TC01.java:69 - FloorNo : 1st
+2022-09-19 00:02:57 INFO  TC01.java:71 - TowerNo : 1
+2022-09-19 00:02:57 INFO  TC01.java:73 - BuildingName : test
+2022-09-19 00:02:57 INFO  TC01.java:75 - Address : test
+2022-09-19 00:02:57 INFO  TC01.java:77 - LandMark : test
+2022-09-19 00:02:57 INFO  TC01.java:80 - PersonName : test
+2022-09-19 00:02:57 INFO  TC01.java:82 - ContactNo : 1234567890
+2022-09-19 00:02:57 INFO  TC01.java:84 - AddressSaveAs : Other
+2022-09-19 00:02:57 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:02:58 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-ydc-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:02:58 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:02:59 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-ydc-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Address *" mdbinput="" name="building_address" id="building_address" type="text" formcontrolname="building_address" maxlength="50" pattern="^[a-zA-Z&amp; -.\s]+$" class="form-control ng-dirty ng-valid ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:00 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:03:00 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:03:00 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:03:00 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:03:00 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:03:00 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:03:00 INFO  TC01.java:75 - Address : 
+2022-09-19 00:03:00 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:03:00 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:03:00 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:03:00 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:03:00 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:03:01 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-ydc-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:01 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:03:02 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-ydc-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:02 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:03:02 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:03:02 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:03:02 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:03:02 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:03:02 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:03:02 INFO  TC01.java:75 - Address : 
+2022-09-19 00:03:02 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:03:02 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:03:02 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:03:02 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:03:02 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:03:03 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-ydc-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:03 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:03:04 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-ydc-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:04 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:03:04 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:03:04 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:03:04 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:03:04 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:03:04 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:03:05 INFO  TC01.java:75 - Address : 
+2022-09-19 00:03:05 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:03:05 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:03:05 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:03:05 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:03:05 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:03:06 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-ydc-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:06 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:03:07 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-ydc-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:07 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:03:07 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:03:07 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:03:07 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:03:07 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:03:07 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:03:07 INFO  TC01.java:75 - Address : 
+2022-09-19 00:03:07 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:03:07 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:03:07 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:03:07 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:03:07 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:03:08 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-ydc-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:08 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:03:09 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-ydc-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:09 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:03:09 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:03:09 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:03:09 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:03:09 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:03:09 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:03:09 INFO  TC01.java:75 - Address : 
+2022-09-19 00:03:09 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:03:09 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:03:09 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:03:09 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:03:09 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:03:11 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-ydc-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:11 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:03:12 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-ydc-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:12 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:03:12 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:03:12 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:03:12 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:03:12 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:03:12 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:03:12 INFO  TC01.java:75 - Address : 
+2022-09-19 00:03:12 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:03:12 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:03:12 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:03:12 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:03:12 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:03:13 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-ydc-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:13 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:03:14 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-ydc-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:14 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:03:14 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:03:14 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:03:14 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:03:14 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:03:14 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:03:14 INFO  TC01.java:75 - Address : 
+2022-09-19 00:03:14 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:03:14 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:03:14 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:03:14 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:03:14 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:03:15 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-ydc-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-ydc-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf7de9e0816b9cfdb272ef9b69712a3e
+2022-09-19 00:03:15 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:03:16 INFO  BaseClass.java:63 - Close Browser
+2022-09-19 00:13:41 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-19 00:13:43 INFO  BaseClass.java:98 - rownum :1
+2022-09-19 00:13:43 INFO  BaseClass.java:100 - colcount :1
+2022-09-19 00:13:43 INFO  TC01.java:18 - Application Start
+2022-09-19 00:13:44 INFO  TC01.java:20 - Click on Sign In
+2022-09-19 00:13:44 INFO  TC01.java:22 - Enter the phone No : 8169629145
+2022-09-19 00:13:44 INFO  TC01.java:24 - Click on button
+2022-09-19 00:14:02 INFO  TC01.java:26 - Enter OTP
+2022-09-19 00:14:02 INFO  TC01.java:28 - Click on Verify button
+2022-09-19 00:14:02 INFO  TC01.java:38 - SearchProducts
+2022-09-19 00:14:04 INFO  TC01.java:40 - SearchProductName
+2022-09-19 00:14:09 INFO  TC01.java:42 - SelectProduct
+2022-09-19 00:14:09 INFO  TC01.java:44 - AddToCart
+2022-09-19 00:14:44 INFO  SearchProducts.java:64 - ClickOnCartelement not interactable
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65317}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 622d9e34193749e640d4a4abf9a60cc7
+2022-09-19 00:14:44 INFO  TC01.java:48 - ClickOnCart
+2022-09-19 00:15:14 INFO  BaseClass.java:75 - rownum :8
+2022-09-19 00:15:14 INFO  BaseClass.java:77 - colcount :10
+2022-09-19 00:15:45 INFO  DeliveryProcess.java:92 - TypeYourAddressCannot locate an element using xpath=//*[@id='addressmodal']/div/div/div[2]/div[1]/div[5]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: driver.version: RemoteWebDriver
+2022-09-19 00:15:45 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:15:55 INFO  DeliveryProcess.java:102 - EnterPinCodechrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65317}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 622d9e34193749e640d4a4abf9a60cc7
+*** Element info: {Using=xpath, value=//input[@placeholder='Pin Code *']}
+2022-09-19 00:15:55 INFO  TC01.java:65 - EnterPinCode : 400705
+2022-09-19 00:16:02 INFO  BaseClass.java:41 - OpanCrome Browser
+2022-09-19 00:16:05 INFO  BaseClass.java:98 - rownum :1
+2022-09-19 00:16:05 INFO  BaseClass.java:100 - colcount :1
+2022-09-19 00:16:05 INFO  TC01.java:18 - Application Start
+2022-09-19 00:16:06 INFO  TC01.java:20 - Click on Sign In
+2022-09-19 00:16:06 INFO  TC01.java:22 - Enter the phone No : 8169629145
+2022-09-19 00:16:06 INFO  TC01.java:24 - Click on button
+2022-09-19 00:16:23 INFO  TC01.java:26 - Enter OTP
+2022-09-19 00:16:23 INFO  TC01.java:28 - Click on Verify button
+2022-09-19 00:16:23 INFO  TC01.java:38 - SearchProducts
+2022-09-19 00:16:25 INFO  TC01.java:40 - SearchProductName
+2022-09-19 00:16:30 INFO  TC01.java:42 - SelectProduct
+2022-09-19 00:16:30 INFO  TC01.java:44 - AddToCart
+2022-09-19 00:16:36 INFO  TC01.java:48 - ClickOnCart
+2022-09-19 00:16:36 INFO  TC01.java:54 - PlaceOrder
+2022-09-19 00:16:36 INFO  BaseClass.java:75 - rownum :8
+2022-09-19 00:16:36 INFO  BaseClass.java:77 - colcount :10
+2022-09-19 00:16:37 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:16:38 INFO  TC01.java:65 - EnterPinCode : 400705
+2022-09-19 00:16:38 INFO  TC01.java:67 - EnterHouseNo : 1
+2022-09-19 00:16:38 INFO  TC01.java:69 - FloorNo : 1st
+2022-09-19 00:16:38 INFO  TC01.java:71 - TowerNo : 1
+2022-09-19 00:16:38 INFO  TC01.java:73 - BuildingName : test
+2022-09-19 00:16:38 INFO  TC01.java:75 - Address : test
+2022-09-19 00:16:38 INFO  TC01.java:77 - LandMark : test
+2022-09-19 00:16:38 INFO  TC01.java:80 - PersonName : test
+2022-09-19 00:16:38 INFO  TC01.java:82 - ContactNo : 1234567890
+2022-09-19 00:16:38 INFO  TC01.java:84 - AddressSaveAs : Other
+2022-09-19 00:16:38 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:16:39 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-iyh-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:39 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:16:40 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-iyh-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Address *" mdbinput="" name="building_address" id="building_address" type="text" formcontrolname="building_address" maxlength="50" pattern="^[a-zA-Z&amp; -.\s]+$" class="form-control ng-dirty ng-valid ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:40 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:16:40 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:16:40 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:16:40 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:16:40 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:16:40 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:16:40 INFO  TC01.java:75 - Address : 
+2022-09-19 00:16:40 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:16:41 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:16:41 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:16:41 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:16:41 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:16:42 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-iyh-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:42 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:16:43 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-iyh-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:43 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:16:43 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:16:43 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:16:43 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:16:43 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:16:43 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:16:43 INFO  TC01.java:75 - Address : 
+2022-09-19 00:16:43 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:16:43 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:16:43 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:16:43 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:16:43 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:16:44 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-iyh-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:44 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:16:45 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-iyh-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:45 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:16:45 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:16:45 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:16:45 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:16:45 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:16:45 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:16:45 INFO  TC01.java:75 - Address : 
+2022-09-19 00:16:45 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:16:45 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:16:45 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:16:45 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:16:45 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:16:47 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-iyh-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:47 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:16:48 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-iyh-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:48 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:16:48 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:16:48 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:16:48 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:16:48 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:16:48 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:16:48 INFO  TC01.java:75 - Address : 
+2022-09-19 00:16:48 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:16:48 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:16:48 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:16:48 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:16:48 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:16:49 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-iyh-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:49 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:16:50 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-iyh-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:50 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:16:50 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:16:50 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:16:50 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:16:50 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:16:50 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:16:50 INFO  TC01.java:75 - Address : 
+2022-09-19 00:16:50 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:16:50 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:16:50 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:16:50 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:16:50 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:16:51 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-iyh-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:51 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:16:52 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-iyh-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:52 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:16:52 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:16:52 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:16:53 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:16:53 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:16:53 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:16:53 INFO  TC01.java:75 - Address : 
+2022-09-19 00:16:53 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:16:53 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:16:53 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:16:53 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:16:53 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:16:54 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-iyh-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:54 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:16:55 INFO  DeliveryProcess.java:92 - TypeYourAddresselement click intercepted: Element <div _ngcontent-iyh-c107="" class="type-address">...</div> is not clickable at point (1420, 197). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Landmark / Area *" mdbinput="" name="area_name" id="area_name" type="text" formcontrolname="area_name" minlength="5" maxlength="40" pattern="^[a-zA-Z0-9 ,./\)(&amp;'-|]+$" class="form-control ng-invalid ng-dirty ng-touched">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:55 INFO  TC01.java:63 - TypeYourAddress
+2022-09-19 00:16:55 INFO  TC01.java:65 - EnterPinCode : 
+2022-09-19 00:16:55 INFO  TC01.java:67 - EnterHouseNo : 
+2022-09-19 00:16:55 INFO  TC01.java:69 - FloorNo : 
+2022-09-19 00:16:55 INFO  TC01.java:71 - TowerNo : 
+2022-09-19 00:16:55 INFO  TC01.java:73 - BuildingName : 
+2022-09-19 00:16:55 INFO  TC01.java:75 - Address : 
+2022-09-19 00:16:55 INFO  TC01.java:77 - LandMark : 
+2022-09-19 00:16:55 INFO  TC01.java:80 - PersonName : 
+2022-09-19 00:16:55 INFO  TC01.java:82 - ContactNo : 
+2022-09-19 00:16:55 INFO  TC01.java:84 - AddressSaveAs : 
+2022-09-19 00:16:55 INFO  TC01.java:86 - SaveAddress
+2022-09-19 00:16:56 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-iyh-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-iyh-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49154}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a498f491cecefbb24c84b159ca58d46
+2022-09-19 00:16:56 INFO  TC01.java:88 - MakePayment
+2022-09-19 00:16:56 INFO  BaseClass.java:63 - Close Browser
+2022-09-19 19:40:13 INFO  BaseClass.java:45 - OpanCrome Browser
+2022-09-19 19:40:16 INFO  BaseClass.java:99 - rownum :1
+2022-09-19 19:40:16 INFO  BaseClass.java:101 - colcount :1
+2022-09-19 19:40:16 INFO  TC01.java:18 - Application Start
+2022-09-19 19:40:17 INFO  TC01.java:21 - Click on Sign In
+2022-09-19 19:40:17 INFO  BaseClass.java:66 - Close Browser
+2022-09-19 19:41:29 INFO  BaseClass.java:45 - OpanCrome Browser
+2022-09-19 19:41:32 INFO  BaseClass.java:99 - rownum :1
+2022-09-19 19:41:32 INFO  BaseClass.java:101 - colcount :1
+2022-09-19 19:43:39 INFO  BaseClass.java:45 - OpanCrome Browser
+2022-09-19 19:43:41 INFO  BaseClass.java:99 - rownum :1
+2022-09-19 19:43:41 INFO  BaseClass.java:101 - colcount :1
+2022-09-19 19:43:41 INFO  TC01.java:18 - Application Start
+2022-09-19 19:43:43 INFO  TC01.java:21 - Click on Sign In
+2022-09-19 19:43:43 INFO  BaseClass.java:66 - Close Browser
+2022-09-20 23:27:22 INFO  BaseClass.java:45 - OpanCrome Browser
+2022-09-20 23:27:24 INFO  BaseClass.java:99 - rownum :1
+2022-09-20 23:27:24 INFO  BaseClass.java:101 - colcount :1
+2022-09-20 23:27:24 INFO  Listener.java:13 - Test started
+2022-09-20 23:27:24 INFO  TC01.java:18 - Application Start
+2022-09-20 23:27:25 INFO  TC01.java:21 - Click on Sign In
+2022-09-20 23:27:25 INFO  TC01.java:23 - Enter the phone No : 8169629145
+2022-09-20 23:27:25 INFO  TC01.java:25 - Click on button
+2022-09-20 23:27:42 INFO  TC01.java:27 - Enter OTP
+2022-09-20 23:27:54 INFO  BaseClass.java:45 - OpanCrome Browser
+2022-09-20 23:27:56 INFO  BaseClass.java:99 - rownum :1
+2022-09-20 23:27:56 INFO  BaseClass.java:101 - colcount :1
+2022-09-20 23:27:56 INFO  Listener.java:13 - Test started
+2022-09-20 23:27:56 INFO  TC01.java:18 - Application Start
+2022-09-20 23:27:57 INFO  TC01.java:21 - Click on Sign In
+2022-09-20 23:27:57 INFO  TC01.java:23 - Enter the phone No : 8169629145
+2022-09-20 23:27:57 INFO  TC01.java:25 - Click on button
+2022-09-20 23:28:14 INFO  TC01.java:27 - Enter OTP
+2022-09-20 23:28:14 INFO  TC01.java:29 - Click on Verify button
+2022-09-20 23:28:14 INFO  Listener.java:18 - Test passed
+2022-09-20 23:28:14 INFO  Listener.java:13 - Test started
+2022-09-20 23:28:14 INFO  TC01.java:39 - SearchProducts
+2022-09-20 23:28:18 INFO  TC01.java:41 - SearchProductName
+2022-09-20 23:28:19 INFO  TC01.java:43 - SelectProduct
+2022-09-20 23:28:49 INFO  Listener.java:23 - Test failed
+2022-09-20 23:28:49 INFO  BaseClass.java:76 - rownum :1
+2022-09-20 23:28:49 INFO  BaseClass.java:78 - colcount :10
+2022-09-20 23:28:49 INFO  Listener.java:13 - Test started
+2022-09-20 23:29:19 INFO  DeliveryProcess.java:92 - TypeYourAddressno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='addressmodal']/div/div/div[2]/div[1]/div[5]"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49774}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 498b5a5eb8a07914fca24db5c849528c
+*** Element info: {Using=xpath, value=//*[@id='addressmodal']/div/div/div[2]/div[1]/div[5]}
+2022-09-20 23:29:19 INFO  TC01.java:64 - TypeYourAddress
+2022-09-20 23:29:49 INFO  DeliveryProcess.java:102 - EnterPinCodeno such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Pin Code *']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49774}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 498b5a5eb8a07914fca24db5c849528c
+*** Element info: {Using=xpath, value=//input[@placeholder='Pin Code *']}
+2022-09-20 23:29:49 INFO  TC01.java:66 - EnterPinCode : 400705
+2022-09-20 23:30:19 INFO  DeliveryProcess.java:111 - EnterHouseNono such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='flat_or_house_no']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49774}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 498b5a5eb8a07914fca24db5c849528c
+*** Element info: {Using=xpath, value=//input[@id='flat_or_house_no']}
+2022-09-20 23:30:19 INFO  TC01.java:68 - EnterHouseNo : 1
+2022-09-20 23:30:38 INFO  DeliveryProcess.java:121 - FloorNoelement not interactable
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49774}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 498b5a5eb8a07914fca24db5c849528c
+2022-09-20 23:30:38 INFO  TC01.java:70 - FloorNo : 1st
+2022-09-20 23:30:46 INFO  BaseClass.java:45 - OpanCrome Browser
+2022-09-20 23:30:48 INFO  BaseClass.java:99 - rownum :1
+2022-09-20 23:30:48 INFO  BaseClass.java:101 - colcount :1
+2022-09-20 23:30:48 INFO  Listener.java:13 - Test started
+2022-09-20 23:30:48 INFO  TC01.java:18 - Application Start
+2022-09-20 23:30:49 INFO  TC01.java:21 - Click on Sign In
+2022-09-20 23:30:49 INFO  TC01.java:23 - Enter the phone No : 8169629145
+2022-09-20 23:30:49 INFO  TC01.java:25 - Click on button
+2022-09-20 23:31:06 INFO  TC01.java:27 - Enter OTP
+2022-09-20 23:31:06 INFO  TC01.java:29 - Click on Verify button
+2022-09-20 23:31:06 INFO  Listener.java:18 - Test passed
+2022-09-20 23:31:06 INFO  Listener.java:13 - Test started
+2022-09-20 23:31:06 INFO  TC01.java:39 - SearchProducts
+2022-09-20 23:31:09 INFO  TC01.java:41 - SearchProductName
+2022-09-20 23:31:11 INFO  TC01.java:43 - SelectProduct
+2022-09-20 23:31:11 INFO  TC01.java:45 - AddToCart
+2022-09-20 23:31:17 INFO  TC01.java:49 - ClickOnCart
+2022-09-20 23:31:17 INFO  TC01.java:55 - PlaceOrder
+2022-09-20 23:31:17 INFO  Listener.java:18 - Test passed
+2022-09-20 23:31:17 INFO  BaseClass.java:76 - rownum :1
+2022-09-20 23:31:17 INFO  BaseClass.java:78 - colcount :10
+2022-09-20 23:31:18 INFO  Listener.java:13 - Test started
+2022-09-20 23:31:18 INFO  TC01.java:64 - TypeYourAddress
+2022-09-20 23:31:19 INFO  TC01.java:66 - EnterPinCode : 400705
+2022-09-20 23:31:19 INFO  TC01.java:68 - EnterHouseNo : 1
+2022-09-20 23:31:19 INFO  TC01.java:70 - FloorNo : 1st
+2022-09-20 23:31:19 INFO  TC01.java:72 - TowerNo : 1
+2022-09-20 23:31:19 INFO  TC01.java:74 - BuildingName : test
+2022-09-20 23:31:19 INFO  TC01.java:76 - Address : test
+2022-09-20 23:31:19 INFO  TC01.java:78 - LandMark : test
+2022-09-20 23:31:19 INFO  TC01.java:81 - PersonName : test
+2022-09-20 23:31:19 INFO  TC01.java:83 - ContactNo : 1234567890
+2022-09-20 23:31:19 INFO  TC01.java:85 - AddressSaveAs : Other
+2022-09-20 23:31:19 INFO  TC01.java:87 - SaveAddress
+2022-09-20 23:31:20 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-hyo-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-hyo-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50053}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90982c93799aaf5307812dcf5a04a4dc
+2022-09-20 23:31:20 INFO  TC01.java:89 - MakePayment
+2022-09-20 23:31:20 INFO  Listener.java:18 - Test passed
+2022-09-20 23:31:20 INFO  BaseClass.java:66 - Close Browser
+2022-09-20 23:59:36 INFO  BaseClass.java:45 - OpanCrome Browser
+2022-09-20 23:59:39 INFO  BaseClass.java:99 - rownum :1
+2022-09-20 23:59:39 INFO  BaseClass.java:101 - colcount :1
+2022-09-20 23:59:39 INFO  Listener.java:13 - Test started
+2022-09-20 23:59:39 INFO  TC01.java:18 - Application Start
+2022-09-20 23:59:40 INFO  TC01.java:21 - Click on Sign In
+2022-09-20 23:59:40 INFO  TC01.java:23 - Enter the phone No : 8169629145
+2022-09-20 23:59:40 INFO  TC01.java:25 - Click on button
+2022-09-20 23:59:57 INFO  TC01.java:27 - Enter OTP
+2022-09-20 23:59:57 INFO  TC01.java:29 - Click on Verify button
+2022-09-20 23:59:57 INFO  Listener.java:18 - Test passed
+2022-09-20 23:59:57 INFO  Listener.java:13 - Test started
+2022-09-20 23:59:57 INFO  TC01.java:39 - SearchProducts
+2022-09-20 23:59:59 INFO  TC01.java:41 - SearchProductName
+2022-09-21 00:00:01 INFO  TC01.java:43 - SelectProduct
+2022-09-21 00:00:03 INFO  TC01.java:45 - AddToCart
+2022-09-21 00:00:08 INFO  TC01.java:49 - ClickOnCart
+2022-09-21 00:00:09 INFO  TC01.java:55 - PlaceOrder
+2022-09-21 00:00:09 INFO  Listener.java:18 - Test passed
+2022-09-21 00:00:09 INFO  BaseClass.java:76 - rownum :1
+2022-09-21 00:00:09 INFO  BaseClass.java:78 - colcount :10
+2022-09-21 00:00:09 INFO  Listener.java:13 - Test started
+2022-09-21 00:00:10 INFO  TC01.java:64 - TypeYourAddress
+2022-09-21 00:00:10 INFO  TC01.java:66 - EnterPinCode : 400705
+2022-09-21 00:00:10 INFO  TC01.java:68 - EnterHouseNo : 1
+2022-09-21 00:00:10 INFO  TC01.java:70 - FloorNo : 1st
+2022-09-21 00:00:10 INFO  TC01.java:72 - TowerNo : 1
+2022-09-21 00:00:10 INFO  TC01.java:74 - BuildingName : test
+2022-09-21 00:00:10 INFO  TC01.java:76 - Address : test
+2022-09-21 00:00:10 INFO  TC01.java:78 - LandMark : test
+2022-09-21 00:00:10 INFO  TC01.java:81 - PersonName : test
+2022-09-21 00:00:10 INFO  TC01.java:83 - ContactNo : 1234567890
+2022-09-21 00:00:11 INFO  TC01.java:85 - AddressSaveAs : Other
+2022-09-21 00:00:11 INFO  TC01.java:87 - SaveAddress
+2022-09-21 00:00:12 INFO  DeliveryProcess.java:223 - MakePaymentelement click intercepted: Element <button _ngcontent-hok-c107="" type="button" class="btn-checkout btn btn_to_checkout m-0">...</button> is not clickable at point (1280, 443). Other element would receive the click: <input _ngcontent-hok-c107="" placeholder="Mobile number *" mdbinput="" type="text" id="mobile_no" name="mobile_no" formcontrolname="mobile_no" minlength="10" maxlength="10" numbersonly="" class="form-control ng-touched ng-dirty ng-valid">
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LC911AC', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60519}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b963cd14a6a8853d93f59acd3143a429
+2022-09-21 00:00:12 INFO  TC01.java:89 - MakePayment
+2022-09-21 00:00:12 INFO  Listener.java:18 - Test passed
+2022-09-21 00:00:12 INFO  BaseClass.java:66 - Close Browser
