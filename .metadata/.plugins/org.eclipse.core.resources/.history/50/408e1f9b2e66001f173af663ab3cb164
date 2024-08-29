@@ -1,0 +1,124 @@
+package com.testCases;
+
+import org.apache.log4j.Logger;
+import org.testng.annotations.Test;
+
+import com.PageObject.DeliveryProcess;
+import com.PageObject.SearchProducts;
+import com.PageObject.SignInPage;
+
+public class TC01 extends BaseClass {
+	private static final Logger log = Logger.getLogger(TC01.class);
+
+	@Test(priority = 1, dataProvider = "PhoneNo")
+	public void SignIn(String PhNo) {
+
+		try {
+			SignInPage page = new SignInPage(driver);
+			log.info("Application Start");
+			page.clickOnSignIn();
+			//takeScreenShot("SignIn");
+			log.info("Click on Sign In");
+			page.EntrPhNo(PhNo);
+			log.info("Enter the phone No : "+PhNo);
+			page.click();
+			log.info("Click on button");
+			page.EntrOTP();
+			log.info("Enter OTP");
+			page.VerifyOnclick();
+			log.info("Click on Verify button");
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+		//git push --set-upstream origin master
+		
+		
+
+	}
+	
+
+	@Test(priority = 1, dataProvider = "PhoneNo")
+	public void SignIn(String PhNo) {
+
+		try {
+			SignInPage page = new SignInPage(driver);
+			log.info("Application Start");
+			page.clickOnSignIn();
+			//takeScreenShot("SignIn");
+			log.info("Click on Sign In");
+			page.EntrPhNo(PhNo);
+			log.info("Enter the phone No : "+PhNo);
+			page.click();
+			log.info("Click on button");
+			page.EntrOTP();
+			log.info("Enter OTP");
+			page.VerifyOnclick();
+			log.info("Click on Verify button");
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+
+	}
+
+	@Test(priority = 2 )
+	public void SearchProduct() throws InterruptedException {
+		SearchProducts products = new SearchProducts(driver);
+		log.info("SearchProducts");
+		products.SearchProductName();
+		log.info("SearchProductName");
+		products.SelectProduct();
+		log.info("SelectProduct");
+		products.AddToCart();
+		log.info("AddToCart");
+
+		try {
+			products.ClickOnCart();
+			log.info("ClickOnCart");
+		} catch (Exception e) {
+			log.info("ClickOnCart" + e.getMessage());
+		}
+
+		products.PlaceOrder();
+		log.info("PlaceOrder");
+	}
+
+	
+	@Test(priority = 3, dataProvider = "AddressDetails", invocationCount = 1)
+	public void DeliveryProces(String PinCode, String HouseNo, String FloorNo, String TowerNo, String BuildingName, String Address, String LandMark, String PersonName, String ContactNo, String AddressSaveAs) {
+		try {
+			DeliveryProcess process = new DeliveryProcess(driver);
+			process.TypeYourAddress();
+			log.info("TypeYourAddress");
+			process.EnterPinCode(PinCode);
+			log.info("EnterPinCode : "+PinCode);
+			process.EnterHouseNo(HouseNo);
+			log.info("EnterHouseNo : "+HouseNo);
+			process.FloorNo(FloorNo);
+			log.info("FloorNo : "+FloorNo);
+			process.TowerNo(TowerNo);
+			log.info("TowerNo : "+TowerNo);
+			process.BuildingName(BuildingName);
+			log.info("BuildingName : "+BuildingName);
+			process.Address(Address);
+			log.info("Address : "+Address);
+			process.LandMark(LandMark);
+			log.info("LandMark : "+LandMark);
+			// process.CityState();
+			process.PersonName(PersonName);
+			log.info("PersonName : "+PersonName);
+			process.ContactNo(ContactNo);
+			log.info("ContactNo : "+ContactNo);
+			process.AddressSaveAs(AddressSaveAs);
+			log.info("AddressSaveAs : "+AddressSaveAs);
+			 process.SaveAddress();
+			 log.info("SaveAddress");
+			 process.MakePayment();
+			 log.info("MakePayment");
+			 
+		} catch (Exception e) {
+			log.info("Exception" + e.getMessage());
+		}
+
+	}
+
+}
